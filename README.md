@@ -1,4 +1,4 @@
-### I am a CS Student, lets go have to a 0xCAFEBABE
+### I am a CS Student, lets go have a 0xCAFEBABE
 Check out my [Habr publications](https://habr.com/ru/users/imaginethis/publications/articles/)
 
 *  I like Java and do most of my work with it;
