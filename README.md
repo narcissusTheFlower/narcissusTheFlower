@@ -6,5 +6,6 @@ Check out my [Habr publication](https://habr.com/ru/users/imaginethis/publicatio
 
 People should use appropriate tools for the given task. Don't be nailing with a screwdriver.
 <br>
+<br>
 <img src="https://froggi.es/github/8bitcow.gif"></img>
 
